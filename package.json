@@ -1,4 +1,4 @@
-{
+e{
   "name": "TheMystic-Bot-MD",
   "version": "1.0.0",
   "description": "Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.",
@@ -32,11 +32,11 @@
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^4.2.4",
-      "@StarlightsTeam/Scraper": "github:StarlightsTeam/StarlightsTeam-Scraper",
+    "@StarlightsTeam/Scraper": "github:StarlightsTeam/StarlightsTeam-Scraper",
     "@brandond/findthelyrics": "^2.0.5",
     "@green-code/music-track-data": "^2.0.3",
     "@SumiFX/Scraper": "github:SumiFX/SumiFX-Scraper",
-   "instagram-url-direct": "^1.0.13",
+    "instagram-url-direct": "^1.0.13",
     "@sefinek/google-tts-api": "*",
     "@shineiichijo/marika": "^2.0.6",
     "@vitalets/google-translate-api": "^8.0.0",
